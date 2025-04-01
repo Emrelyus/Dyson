@@ -2,7 +2,7 @@
 <html lang="tr">
 <head>
     <meta charset="UTF-8">
-    <title>1 Nisan Şakası</title>
+    <title>Emreden 1 Nisan Şakası :)</title>
     <style>
         body {
             display: flex;
